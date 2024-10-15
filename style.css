@@ -1,5 +1,9 @@
 @media screen and (min-width:1024px){
     
+
+.contato{
+    background-color: gray;
+}
 .nome{
     background-color: rgb(102, 11, 129);
     padding: 20px;
@@ -35,11 +39,12 @@
 #txtbusca{
     float:left;
     background-color:transparent;
-    font-size:10px;
+    font-size:12px;
     border:none;
-    height:30px;
+    height:40px;
     width:600px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 .btn{
     background-color: rgb(155, 54, 185);
